@@ -1,0 +1,16 @@
+Dependencias 
+
+"dependencies": {
+    "axios": "0.18.0",               --Cliente http
+    "bootstrap-vue": "2.0.0-rc.11",  --Algumas classes do bootstrap
+    "font-awesome": "4.7.0",         --Biblioteca de fonts
+    "highlightjs": "9.10.0",         --Quando for criar os artigos, quando for colocar o codigo font no artigo
+    "liquor-tree": "0.2.32",         --Arvore que sera usada para colocar as categorias
+    "vue": "2.5.17",                 --
+    "vue-gravatar": "1.2.1",         --Para colocar a imagens do usuario (se seu email estiver conectado, ira aparecer a sua imagem)
+    "vue-mq": "0.2.1",               --Responsividade
+    "vue-router": "3.0.1",           --Criar as rotas
+    "vue-toasted": "1.1.24",         --Parte de mensagen
+    "vue2-editor": "2.6.6",          --Componente de editor de texto
+    "vuex": "3.0.1"                  --Controle da store (compartilhamento dos status entre os componentes)
+  },
